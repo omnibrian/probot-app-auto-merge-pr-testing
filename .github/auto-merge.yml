@@ -2,3 +2,6 @@
 from_users:
 - omnibrian
 - mike-stewart
+
+allowed_paths:
+- README.md
